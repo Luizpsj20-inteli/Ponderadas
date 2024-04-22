@@ -47,11 +47,12 @@ A detecção facial é o processo de identificar e localizar faces em imagens ou
 #### Produtos comerciais relacionados:
 
 - **OpenCV**: Biblioteca de visão computacional que inclui módulos para detecção facial.
+  
 - **Instagram**: Permite com que o usuário use filtros de realidade aumentada nos stories, para maior diversão e engajamento.
 
 #### Segmentos de mercado:
 
-- **Tecnologia de Segurança**: Empresas de cibersegurança.
+- **Segurança**: Empresas de cibersegurança.
   
 - **Tecnologia da Informação**: Desenvolvedores e empresas de software que integram detecção facial em seus produtos.
 
